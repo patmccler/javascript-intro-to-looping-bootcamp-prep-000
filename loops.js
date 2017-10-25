@@ -25,6 +25,6 @@ function whileLoop(n) {
 
 function doWhile(array) {
   do {
-    
+
   } while (math.random() >= .5)
 }
