@@ -8,7 +8,7 @@ function forLoop(array) {
     }
     else
     {
-      array[i] = `I am ${i} strange loops`
+      array[i] = `I am ${i} strange loops.`
     }
   }
 }
