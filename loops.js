@@ -23,7 +23,7 @@ function whileLoop(n) {
   return "done"
 }
 
-function doWhile(array) {
+function doWhileLoop(array) {
   do {
     array.pop()
 
