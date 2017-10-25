@@ -22,3 +22,9 @@ function whileLoop(n) {
   }
   return "done"
 }
+
+function doWhile(array) {
+  do {
+    
+  } while (math.random() >= .5)
+}
